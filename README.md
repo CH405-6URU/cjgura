@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjgura
-- 👀 I’m interested in Python and bioinformatics related to NGS
-- 🌱 I’m currently learning how to clean and manipulate NCBI data files
-- 💞️ I’m looking to collaborate on genome rearrangment
-- 📫 Message me on here
+- 👀 I’m interested in Python, bioinformatics, and android app programming
+- 🌱 I’m currently learning viewmodels and navigation in Jetpack Compose
+- 💞️ I’m looking to collaborate on science adjacent apps
+- 📫 Message me on here!
